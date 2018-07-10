@@ -1,6 +1,6 @@
 class sideDemo
 {
- static public void main(Sring []args)
+ static public void main(String[] args)
  {
   System.out.println("demo code in side branch");
  }
